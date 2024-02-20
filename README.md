@@ -6,7 +6,7 @@
 
 #### I'm a developer Java, I worked in the backend focused on building services for banks.
 
-##### Skill's - Java 8, 11, 17 - Spring Framework | Angular - JavaScript, TypeScript 
+##### Skill's - Java 8, 11, 17 - Spring Framework | Angular
 
 ### Tecnologias que uso no meu dia
 
