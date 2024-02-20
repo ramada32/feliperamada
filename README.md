@@ -8,7 +8,7 @@
 
 ##### Skill's - Java 8, 11, 17 - Spring Framework | Angular - JavaScript, TypeScript 
 
-Tecnologias com que trabalhei
+### Tecnologias que uso no meu dia
 
 <br>
 <p>
@@ -34,7 +34,8 @@ Tecnologias com que trabalhei
  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
  &nbsp; 
  </p>
- Tecnologias que estou aprendendo
+ 
+ ### Tecnologias que estou aprendendo
 
 <br>
 <p>
