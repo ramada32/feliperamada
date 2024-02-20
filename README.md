@@ -12,8 +12,8 @@
 <br>
 <p>
 <p>
-![java-logo-1](https://github.com/ramada32/ramada32/assets/37840920/2e4d9c13-2517-4c4c-8084-b8fad3bb0286)
-
+<img src="https://brandslogos.com/j/java-logo-1/" height="35px"/>
+&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
 &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
@@ -29,8 +29,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
 &nbsp;
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
-&nbsp;  
-<img src="https://camo.githubusercontent.com/67d3b6a53e54ed6b9e5487f043892b71853438713be5bddbaa04dee4968d0bb1/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3132382f6a6176615f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363435392e706e67" height="35px" />   
+&nbsp;   
  &nbsp;  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" height="35px" /> 
 </p>
