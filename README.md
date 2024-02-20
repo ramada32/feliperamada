@@ -12,7 +12,7 @@
 <br>
 <p>
 <p>
- ![java-logo-1](https://github.com/jhonatagarcia/jhonatagarcia/assets/37840920/44f18b1f-f100-46aa-98b6-b006c87f51c4)
+![java-logo-1](https://github.com/ramada32/ramada32/assets/37840920/2e4d9c13-2517-4c4c-8084-b8fad3bb0286)
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
 &nbsp;  
